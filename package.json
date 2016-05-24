@@ -1,0 +1,13 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "A webcrawler in JavaScript",
+  "main": "crawler.js",
+  "author": "PedroRocha",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "url-parse": "^1.0.5",
+    "request": "^2.65.0"
+  }
+}
